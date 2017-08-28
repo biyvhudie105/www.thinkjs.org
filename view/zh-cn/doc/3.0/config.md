@@ -5,7 +5,7 @@
 * `config.js` 通用的一些配置
 * `adapter.js` adapter 配置
 * `router.js` 自定义路由配置
-* `middleware.js` middlware 配置
+* `middleware.js` middleware 配置
 * `validator.js` 数据校验配置
 * `extend.js` extend 配置
 
